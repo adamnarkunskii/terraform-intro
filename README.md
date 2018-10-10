@@ -3,6 +3,7 @@
 https://wat-izz.github.io/terraform-intro/
 
 
+# Setup
 
 ```
 npm install -g gulp
@@ -11,3 +12,8 @@ npm install gulp -D
 gulp default
 ```
 
+### publish
+
+```
+gulp deploy-pages
+```
