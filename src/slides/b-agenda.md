@@ -2,19 +2,16 @@
 
 --
 
-1. What is Kubernetes?
+1. What is Terraform?
 
 --
 
-2. What Kubernetes is _Not_?
+2. Terraform Concepts
 
 --
 
-3. Kubernetes Concepts
+3. Mini-workshop _!!_ 🚀
 
---
-
-4. Demo _!!_ 🚀
 
 🐾
 
