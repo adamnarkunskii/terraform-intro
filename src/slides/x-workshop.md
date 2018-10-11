@@ -1,6 +1,10 @@
 # Mini-workshop
 
-#### `git clone https://github.com/wat-izz/terraform-workshop.git`
+## Set up terraform locally 
+
+## Clone hello-world azure module 
+
+## Deploy!!
 
 🐾
 
