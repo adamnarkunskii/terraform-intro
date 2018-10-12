@@ -1,3 +1,9 @@
+
+![:scale 65%](https://image.ibb.co/hxc7G9/charity.png)
+
+
+---
+
 # What is Terraform?
 
 --
